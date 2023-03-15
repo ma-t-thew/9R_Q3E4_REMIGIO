@@ -1,0 +1,29 @@
+.background{
+	background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.image{
+	height: 500px
+}
+
+.font{
+	font-family: 'Oswald', sans-serif;
+}
+
+.table{
+	background-color: rgba(0, 0, 0, 0.75);
+	text-align: center;
+	border-radius: 10px;
+}
+
+.font2{
+	font-family: 'Golos Text', sans-serif;
+}
+
+.font3{
+	font-family: 'Tilt Warp', cursive;
+}
